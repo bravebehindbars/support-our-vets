@@ -1,0 +1,23 @@
+#contact {
+    display: block;
+    margin: auto;
+    width: 640px;
+}
+
+.row {
+    margin-bottom: 50px;
+}
+
+.row img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.VA_Centers .ul {
+   text-align: center; 
+}
+
+.CustomLinks {
+    color: blue;
+  }
